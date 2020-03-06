@@ -11,4 +11,5 @@ Record the questions that I've solved in ECNU Online Judge.
 ①在github上创建了本地没有的README.md，导致无法push
 ②“Updates were rejected because the tip of your current branch is behind hint: its remote counterpart.”导致无法push
 ```
-解决方法：https://blog.csdn.net/michael10001/article/details/51371715
+* 解决方法：https://blog.csdn.net/michael10001/article/details/51371715
+* 还有，不知道为啥，今晚push上来的文件的描述都是“1027.发愁”？？迷惑了。。
