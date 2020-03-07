@@ -13,3 +13,5 @@ Record the questions that I've solved in ECNU Online Judge.
 ```
 * 解决方法：https://blog.csdn.net/michael10001/article/details/51371715
 * 还有，不知道为啥，今晚push上来的文件的描述都是“1027.发愁”？？迷惑了。。
+## 2020/03/07
+* 上传03/07做的两道题（3194题目值得一提（捋胡…）
