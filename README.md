@@ -23,3 +23,6 @@ Record the questions that I've solved in ECNU Online Judge.
 * 上传03/09做的两道题
 * 3023 学到了二进制枚举法，nice~
 * ~~感觉字符串专题比前几个专题难哩……~~
+## 2020/03/11
+* 上传03/10做的两道题
+* 3018 查找单词 学到了strstr的用法（菜鸡发言
