@@ -26,3 +26,5 @@ Record the questions that I've solved in ECNU Online Judge.
 ## 2020/03/11
 * 上传03/10做的两道题
 * 3018 查找单词 学到了strstr的用法（菜鸡发言
+## 2020/03/12
+* 上传了03/12做的两道题
