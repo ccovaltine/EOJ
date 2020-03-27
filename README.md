@@ -60,3 +60,5 @@ Record the questions that I've solved in ECNU Online Judge.
 * 3006 多项式的系数II 尝试失败
 * 3746 钢琴演奏家 自己做的只能过前两个测试点，，后面都TLE了QAQ，，遂看了题解，，u1s1，没看懂orz
 * 3416 摄氏华氏转换 水题一道
+## 2020/03/26
+* 上传03/26做的3道题（进入Week5）
